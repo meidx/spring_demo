@@ -71,6 +71,8 @@
     <module>spring-boot-demo-jvm</module>
     <module>spring_boot_demo_websocket_k8s</module>
     <module>spring_boot_demo_websocket_v2</module>
+      <module>spring_boot_test</module>
+    <module>spring_boot_demo_test</module>
   </modules>
   <packaging>pom</packaging>
 
